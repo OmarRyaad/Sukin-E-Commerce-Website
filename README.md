@@ -1,4 +1,4 @@
-# Sukin E-Commerce Website 💄🧴
+# Sukin E-Commerce Website
 
 A modern and responsive E-Commerce website built with **React.js**, designed for selling beauty creams and skin care products. Sukin provides a smooth user experience with a clean, elegant interface focused on self-care and wellness.
 
